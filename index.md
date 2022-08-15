@@ -1,17 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to This Website Friend!
 
-You can use the [editor on GitHub](https://github.com/Jeffe-rson/Jeffer-son/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I want to share my progress and a project I have been working on for quite some time now and I would like to share it with the world when its ready.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am trying to develop my own unique method of transfering crypto-currency without the need of the internet but instead under the support of a sim-toolkit allowinng a user to make purchase through a simcard.
 
-### Markdown
+### PROJECT GOALS
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Project will be based under the bitcoin core principles of authenticity and transparency.
 
 ```markdown
-Syntax highlighted code block
+sim-toolkit crypto-wallet
 
-HELLO FRIENDS
+
 ## Header 2
 ### Header 3
 
