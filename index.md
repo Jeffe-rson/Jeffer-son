@@ -1,4 +1,4 @@
-## Welcome to This Website Friend!
+## Welcome to my Project!
 
 I want to share my progress and a project I have been working on for quite some time now and I would like to share it with the world when its ready.
 
